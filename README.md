@@ -1,4 +1,4 @@
-# DAW - M051 - Entorns de desenvolupament (primer curs)
+# DAW - M052 - Entorns de desenvolupament (segon curs)
 
 1. UF1 - Desenvolupament de programari
 2. UF2 - Optimització del programari

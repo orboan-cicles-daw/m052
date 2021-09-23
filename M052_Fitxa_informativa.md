@@ -1,7 +1,7 @@
-# MP05 Grup 1T
+# MP05 Grup 2T
 # Fitxa Informativa
 
-Al primer curs de DAW cursareu les següents Unitats Formatives del Mòdul Professional 03 - Programació:
+Al segon curs de DAW cursareu les següents Unitats Formatives del Mòdul Professional 05 - Entorns de desenvolupament:
 
 1. UF1 - Desenvolupament de programari
 2. UF2 - Optimització del programari
@@ -11,8 +11,8 @@ Al primer curs de DAW cursareu les següents Unitats Formatives del Mòdul Profe
 ## Prerequisits i recomanacions
 
 - Per a poder cursar amb èxit la UF1 no hi ha cap requeriment previ, però és recomanable estar familiaritzat amb el terminal de linux i conèixer algun llenguatge de programació.
-- Per a poder cursar amb èxit la UF2, és requeriment haver superat la UF1 d'aquest mateix mòdul M051.
-- Per a poder superar amb èxit la UF3, és requeriment haver superat la UF1 d'aquest mateix mòdul M051, i és recomanable haver superat la UF2 d'aquest mateix mòdul M051 i també la _UF4 - Programació Orientada a l'Objecte_ del mòdul M032 - Programació.
+- Per a poder cursar amb èxit la UF2, és requeriment haver superat la UF1 d'aquest mateix mòdul M052.
+- Per a poder superar amb èxit la UF3, és requeriment haver superat la UF1 d'aquest mateix mòdul M052, i és recomanable haver superat la UF2 d'aquest mateix mòdul M052 i també la _UF4 - Programació Orientada a l'Objecte_ del mòdul M032 - Programació.
 
 ## Metodologia
 

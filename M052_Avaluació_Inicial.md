@@ -1,4 +1,4 @@
-# M051 Grup 1T
+# M052 Grup 2T
 # Avaluació Inicial
 
 ### Nom i cognoms:
